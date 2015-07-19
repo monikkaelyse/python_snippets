@@ -14,10 +14,10 @@ def pattern(n):
     '''
     
     test_string = ''
-    for j in range(n):
-        if j:
+    for i in range(n):
+        if i:
            test_string += '\n'
-        for i in range(n-j):
-            test_string += str(n-i)
+        for j in range(n-i):
+            test_string += str(n-j)
 
     return test_string
