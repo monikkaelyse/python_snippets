@@ -1,3 +1,3 @@
 # python_snippets
 
-Random little Python functions written for fun. Enjoy!
+Various python scripts written as helpful conversion tools or entertainment.
